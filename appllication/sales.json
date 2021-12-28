@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Marketing Digital",
+        "tipo": "PlanoBásico",
+        "preco": 1200
+    },
+    {
+        "id": 2,
+        "name": "Marketing Digital",
+        "tipo": "Plano Médio",
+        "preco": 2200
+    },
+    {
+        "id": 3,
+        "name": "Marketing Digital",
+        "tipo": "Plano Completo",
+        "preco": 3200
+    },
+    {
+        "id": 4,
+        "name": "Marketing Conteúdo",
+        "tipo": "Plano Básico",
+        "preco": 2100
+    },
+    {
+        "id": 5,
+        "name": "Marketing Conteúdo",
+        "tipo": "Plano Médio",
+        "preco": 2700
+    },
+    {
+        "id": 6,
+        "name": "Marketing Conteúdo",
+        "tipo": "Plano Completo",
+        "preco": 3000
+    },
+    {
+        "id": 7,
+        "name": "Social Media",
+        "tipo": "Plano Básico",
+        "preco": 1200
+    }
+    
+]
